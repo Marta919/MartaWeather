@@ -14,9 +14,6 @@ return `${day}, ${hours}:${minutes}`;
 }
 let now = document.querySelector("#now");
 now.innerHTML = date(time);
-
-
-
 function showTemperature(response){
 document.querySelector(".twelve").innerHTML = Math.round(response.data.main.temp); 
 document.querySelector(".sky").innerHTML= (`${response.data.weather[0].description}`); 
