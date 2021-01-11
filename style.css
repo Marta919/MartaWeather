@@ -1,0 +1,62 @@
+.container {
+  padding: 20px;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 10px;
+  width: 800px;
+}
+
+#submit-city {
+  display: inline;
+  float: left;
+  padding: 10px;
+}
+s
+.button {
+  background-color: #339af0;
+  border-radius: 5px;
+  border: transparent;
+  color: white;
+}
+
+h1 {
+  font-size: 30px;
+}
+h2,
+h3 {
+  font-size: 20px;
+}
+h1,
+h2,
+h3 {
+  padding: 0 0 0 20px;
+}
+.twelve {
+  font-size: 80px;
+  color: grey;
+}
+.degree {
+  top: -44px;
+  position: relative;
+}
+.sun {
+  color: yellow;
+  padding: 0 5px;
+  font-size: 100px;
+  text-align: center;
+}
+.temperature {
+  font-size: 20px;
+
+  padding: 0 0 40px 0;
+}
+
+button {
+  float: right;
+  padding: 5px 20px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #339af0;
+  color: white;
+  border: transparent;
+}
